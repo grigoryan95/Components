@@ -1,0 +1,11 @@
+.headerPage {
+  display: flex;
+  padding: 10px;
+  background: #db709382;
+  justify-content: center;
+
+  :first-child {
+    margin-right: 10px;
+  }
+
+}
